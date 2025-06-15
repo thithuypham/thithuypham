@@ -1,9 +1,8 @@
 <h2 align="center">Hi, guys! Welcome to my page!👋</h2>
 <p align="center">
     <i>
-        I'm Thuy.<br>
-        I'm currently Master Student of CS.<br>
-        Open to collaborating on interesting projects.<br>
+        I'm Thuy, a Master's student in Computer Science.<br>
+        I'm open to collaborating on impactful and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/thuy-pham-948b53129/" target="top"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:phamthuy10149@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
